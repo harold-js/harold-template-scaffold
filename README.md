@@ -27,6 +27,7 @@ my-custom-template-name-directory
   |- partials
   |- posts
   |- styles
+  |- .gitignore // optional
   |- .haroldrc // optional
 ```
 
